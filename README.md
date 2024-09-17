@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I'm LOKESH IMMANDI
+### Hi there 👋, I'M LOKESH IMMANDI
 
 # CAREER OBJECTIVE
 
@@ -40,7 +40,7 @@ skills, while making a significant contribution to the success of the company.
 
 - *Currently Working on:* Trending technologies, including frontend development with HTML, CSS, JavaScript, and Flexbox, along with backend proficiency in Python, and SQL.
 - *Looking to Collaborate With:* Innovative software companies focused on cutting-edge solutions and technologies.
-- *Additional Technical Skills:* I have strong proficiency in frontend technologies such as HTML, CSS, JavaScript, and Flexbox. Additionally, I am adept at working with backend languages such as C++, Python, and SQL.
+- *Additional Technical Skills:* I have strong proficiency in frontend technologies such as HTML, CSS, JavaScript, and Flexbox. Additionally, I am adept at working with backend languages such Python, and SQL.
 - *Development Environments:* Skilled in using popular development environments, including Visual Studio Code, Jupyter Notebook,for seamless coding experiences.
 - *Programming Passion:* Driven by a passion for programming, I have solved numerous complex challenges on platforms like LeetCode and GeeksforGeeks, which has sharpened my problem-solving skills.
 
