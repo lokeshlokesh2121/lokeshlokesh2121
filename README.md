@@ -36,7 +36,7 @@ skills, while making a significant contribution to the success of the company.
 
   P.M.M.M.M.M High School, 2017-2018  
 
-# Passionate Frontend Developer and Pyhton Developer.
+# Passionate Frontend Developer and Python Developer.
 
 - *Currently Working on:* Trending technologies, including frontend development with HTML, CSS, JavaScript, and Flexbox, along with backend proficiency in Python, and SQL.
 - *Looking to Collaborate With:* Innovative software companies focused on cutting-edge solutions and technologies.
