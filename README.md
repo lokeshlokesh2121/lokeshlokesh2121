@@ -23,9 +23,6 @@ skills, while making a significant contribution to the success of the company.
 
 # Education
 
-- *M.Tech:*
-
-  CSE-AiMl, Pydah college of Engineering, 2024-Present
 - *B.Tech:*
 
   ECE, Aditya college of Engineering, 2020-2024
@@ -101,8 +98,9 @@ Optimized application performance through efficient DOM manipulation , resulting
 ### [COUNTER APPLICATION](https://github.com/lokeshlokesh2121/Counter)
 ### [GUESSING NUMBER GAME](https://github.com/lokeshlokesh2121/ValidNumber)
 ### [Puppy Shades](https://github.com/lokeshlokesh2121/Puppyshades)
-### [Addition Game](https://github.com/venkateshyelisetti21/FRONTEND-MINIPROJECTS/tree/main/Addition%20Game)
+### [Addition Game](https://github.com/lokeshlokesh2121/AddingTwoNumbers)
 ### [Traffic Light Signals](https://github.com/lokeshlokesh2121/Traffic-light-signal)
+### [VRWebsite](https://github.com/lokeshlokesh2121/VR-Website)
 
 ## [Pyhton Projects]
 
