@@ -26,10 +26,10 @@ skills, while making a significant contribution to the success of the company.
 - *B.Tech:*
 
   ECE, Aditya college of Engineering, 2020-2024
-- *CBSE Intermediate:*
+- *Intermediate:*
 
   MPC, Kovvur Boys Jr.College, 2018-2020
-- *CBSE 10th Standard:*
+- *10th Standard:*
 
   P.M.M.M.M.M High School, 2017-2018  
 
