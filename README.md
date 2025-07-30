@@ -33,13 +33,27 @@ skills, while making a significant contribution to the success of the company.
 
   P.M.M.M.M.M High School, 2017-2018  
 
-# Passionate Frontend Developer and Python Developer.
+#Passionate MERN Stack Developer | Frontend & Python Enthusiast
 
-- *Currently Working on:* Trending technologies, including frontend development with HTML, CSS, JavaScript, and Flexbox, along with backend proficiency in Python, and SQL.
-- *Looking to Collaborate With:* Innovative software companies focused on cutting-edge solutions and technologies.
-- *Additional Technical Skills:* I have strong proficiency in frontend technologies such as HTML, CSS, JavaScript, and Flexbox. Additionally, I am adept at working with backend languages such Python, and SQL.
-- *Development Environments:* Skilled in using popular development environments, including Visual Studio Code, Jupyter Notebook,for seamless coding experiences.
-- *Programming Passion:* Driven by a passion for programming, I have solved numerous complex challenges on platforms like LeetCode and GeeksforGeeks, which has sharpened my problem-solving skills.
+*Currently Working On: Modern web development using the MERN stack — React.js for dynamic frontends, Node.js and Express for scalable backends, and MongoDB for efficient data management. Actively involved in building real-world projects at Tiny Data Technologies.*
+
+*Looking to Collaborate With: Innovative software companies and teams working on cutting-edge, scalable, and impactful digital solutions.*
+
+Technical Skills:
+
+Frontend: HTML, CSS, JavaScript, Flexbox, React.js
+
+Backend: Node.js, Express.js, Python, SQL
+
+Database: MongoDB
+
+Other Tools: Git, GitHub, REST APIs, Postman
+
+Development Environments: Proficient with Visual Studio Code and Jupyter Notebook for efficient and productive development workflows.
+
+Programming Passion: Avid problem-solver with hands-on experience tackling algorithmic challenges on platforms like LeetCode and GeeksforGeeks, continuously enhancing logical thinking and coding efficiency.
+
+
 
 # SKILLS
 
@@ -47,7 +61,10 @@ skills, while making a significant contribution to the success of the company.
   Python, C++(basics)
 
 - *Frontend Technologies:*
-  HTML, CSS, JavaScript, Flexbox
+  HTML, CSS, JavaScript, Flexbox, React.js
+
+- *Backend Technologies:*
+  Node.js, Express.js, Python, SQL
 
 - *Database Management System:*
   Structured Query Language(SQL),My Structured Query Language(MySQL)
