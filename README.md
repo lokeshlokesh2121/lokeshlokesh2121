@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 # CAREER OBJECTIVE
 
-To be an efficacious and a certified global consultant in a progressive organization which enables me to fully utilize my
-skills, while making a significant contribution to the success of the company.
+Software Engineer with 1+ year of experience as a FULL Stack Developer as SaaS, specializing in building scalable backend services,
+REST APIs, and full-stack applications. Experienced in developing the real-time systems using Node.js, Express.js, MongoDB, and
+React.js. Strong in authentication, microservices architecture, and production-level debugging, with a focus on building efficient and
+reliable applications.
 
 # Education
 
